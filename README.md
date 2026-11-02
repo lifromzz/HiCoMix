@@ -2,7 +2,6 @@
 
 Official PyTorch implementation of **HiCoMix** — hierarchical consistency mixup for whole-slide image (WSI) multiple-instance learning (MIL), combining OT-guided bag matching with prototype-level mixup.
 
-This repository is a cleaned GitHub release of the training / preprocessing code. 
 
 ## Environment
 
