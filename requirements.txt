@@ -1,0 +1,9 @@
+torch>=1.12
+torchvision
+numpy
+pandas
+scikit-learn
+tqdm
+colorama
+openpyxl
+torchmetrics
